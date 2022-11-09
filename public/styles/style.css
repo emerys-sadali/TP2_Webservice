@@ -1,0 +1,25 @@
+.test{
+    text-align: center;
+    margin: 5%;
+}
+
+
+h1{
+    margin-bottom: 30px;
+}
+
+.rep{
+    margin-top: 50px;
+    font-size: 18px;
+}
+
+#aff{
+    margin-top: 5px;
+}
+
+body{
+    background-image: url("./images/index.jpeg");
+    color: white;
+    font-weight: bold;
+
+}
